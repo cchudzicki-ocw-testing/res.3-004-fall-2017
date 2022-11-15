@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/res-3-004-visualizing-materials-science-fall-2017/a9af561caa7ca9bc6cd2dde75ad7607c_MITRES_3_004F17_27_gerva.jpg
+file: /media/courses/res-3-004-visualizing-materials-science-fall-2017/917dc40633942f05d8bc188ab07df756_MITRES_3_004F17_18_anon-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -15,7 +15,7 @@ parent_title: Student Projects by Year
 parent_type: SupplementalResourceSection
 parent_uid: 912fc084-9e83-2bfd-38af-df58a71a8917
 resourcetype: Image
-title: MITRES_3_004F17_27_gerva.jpg
-uid: a9af561c-aa7c-a9bc-6cd2-dde75ad7607c
+title: MITRES_3_004F17_18_anon-th.jpg
+uid: 917dc406-3394-2f05-d8bc-188ab07df756
 ---
 New image Upload

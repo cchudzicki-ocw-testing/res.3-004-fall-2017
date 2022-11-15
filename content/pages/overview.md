@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Contextualizes the student video projects in relation to course 3.016.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Overview

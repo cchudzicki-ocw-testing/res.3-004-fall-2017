@@ -1,12 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-3-004-visualizing-materials-science-fall-2017/227dfce929b25d789f7982a11a6d5f8b_4-YaJUUTrNw.vtt
+file: /media/courses/res-3-004-visualizing-materials-science-fall-2017/8e900579dd5546fb9f2a601c59b36b35_koHirQQ-Td0.srt
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
-uid: 227dfce9-29b2-5d78-9f79-82a11a6d5f8b
+uid: 8e900579-dd55-46fb-9f2a-601c59b36b35
 ---
